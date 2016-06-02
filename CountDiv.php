@@ -13,6 +13,7 @@ class CountDiv
   }
 }  
 /*
+https://codility.com/demo/results/training6NGRSS-ZGF/
 Write a function:
 
 function solution($A, $B, $K);
